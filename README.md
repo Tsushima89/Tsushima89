@@ -8,7 +8,7 @@ My current Languages: C++, Python, PowerShell, Bash, and SQL.
 
 My current Frameworks I use: NIST Framework
 
-My current Tools I use: Wireshark, Zenmap, PyCharm, and Visual Studio
+My current Tools I use: | Wireshark | , | Zenmap | , | PyCharm |, and | Visual Studio |
 
 My current focus is on all things tech!
 
